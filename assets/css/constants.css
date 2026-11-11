@@ -1,0 +1,19 @@
+/*
+ * Constants
+ *
+ * Keep colors and reusable theme values here.
+ */
+:root {
+  --theme-color-primary: rgb(77, 178, 159);
+  --theme-color-secondary: #FFEEDD;
+  --theme-color-third: #DFF7E9;
+  --theme-color-accent: #DE6A59;
+  --theme-color-text: #000000;
+
+
+  --theme-transition: all 0.3s ease-in-out;
+
+  --theme-font-heading: "west-end-decorate-shadow", serif;
+  --theme-font-body: "karmina-sans", Arial, sans-serif;
+}
+ 
